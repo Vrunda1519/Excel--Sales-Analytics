@@ -5,9 +5,9 @@ This project analyzes customer net sales performance and market performance agai
 
 **Project objective:** 
 
-    **1.** Create a __[Customer Performance report]_(https://github.com/Vrunda1519/Excel--Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+    1. Create a __[Customer Performance report]_(https://github.com/Vrunda1519/Excel--Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]_(
+    2. Conduct a comprehensive comparison between _[market performance and sales targets]_(https://github.com/Vrunda1519/Excel--Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
